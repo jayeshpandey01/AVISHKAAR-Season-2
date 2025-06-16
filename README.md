@@ -105,14 +105,3 @@ The project supports:
 - MPS (Apple Silicon Macs)
 - CPU training (fallback)
 
-## License
-
-[Include your license information here]
-
-## Contributing
-
-[Include contribution guidelines here]
-
-## Contact
-
-[Include your contact information here]
